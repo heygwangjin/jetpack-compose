@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tutorial</string>
+    <string name="send">SEND</string>
+    <string name="enter_message">Enter message</string>
 </resources>
